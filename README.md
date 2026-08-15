@@ -1,1 +1,1 @@
-Whats upp Odin!
+Yo It's my frist project !
